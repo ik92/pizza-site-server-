@@ -1,0 +1,5 @@
+{
+  "serverPort": "5000",
+  "dbUrl" : "mongodb+srv://ivan:06061970@cluster0.euocs.mongodb.net/pizza-site?retryWrites=true&w=majority"
+}
+
